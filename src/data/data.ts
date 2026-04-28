@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Warung Nasi Bu Sari",
+  name: "Warung Nasi Padang Onde Mande",
   tagline: "Masakan Rumahan Otentik Sejak 1998",
   description:
     "Warung Nasi Bu Sari menyajikan masakan rumahan khas Jawa Tengah yang otentik dengan resep turun-temurun. Kami menggunakan bahan segar setiap hari, tanpa MSG berlebih, dan dimasak dengan penuh cinta.",
